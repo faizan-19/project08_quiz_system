@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from 'inquirer';
 const levels = ['easy', 'medium', 'hard'];
 const questions = {
